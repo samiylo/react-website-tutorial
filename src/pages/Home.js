@@ -8,7 +8,7 @@ function Home() {
       <div className="headerContainer">
       <h1 style={{ color: "white" }}>PRAISE HIM</h1>
         <p style={{ color: "white" }}> FASHION FOR GOOD </p>
-        <Link to="/menu">
+        <Link to="/shop">
           <button> ORDER NOW </button>
         </Link>
       </div>
