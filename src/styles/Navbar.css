@@ -48,10 +48,14 @@
 }
 .navbar #open img {
   display: none;
+  height: 80px;
+  width: 100px;
 }
 
 .navbar #close img {
   display: inherit;
+  height: 80px;
+  width: 100px;
 }
 
 .navbar #open .hiddenLinks {

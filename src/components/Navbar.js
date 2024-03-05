@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../assets/pariseHim.png";
+import Logo from "../assets/2praiseHim.png";
 import { Link } from "react-router-dom";
 import ReorderIcon from "@material-ui/icons/Reorder";
 import "../styles/Navbar.css";
