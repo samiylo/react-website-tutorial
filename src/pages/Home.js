@@ -7,8 +7,8 @@ function Home() {
   return (
     <div className="home" style={{ 'background-color': '#130c38' }}>
       <div className="headerContainer">
-        <h1> PRAISE HIM </h1>
-        <p> FASHION FOR GOOD </p>
+      <h1 style={{ color: "white" }}>PRAISE HIM</h1>
+        <p style={{ color: "white" }}> FASHION FOR GOOD </p>
         <Link to="/menu">
           <button> ORDER NOW </button>
         </Link>
