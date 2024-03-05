@@ -5,10 +5,10 @@ import "../styles/Home.css";
 
 function Home() {
   return (
-    <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
+    <div className="home" style={{ 'background-color': '#130c38' }}>
       <div className="headerContainer">
-        <h1> Pedro's Pizzeria </h1>
-        <p> PIZZA TO FIT ANY TASTE</p>
+        <h1> PRAISE HIM </h1>
+        <p> FASHION FOR GOOD </p>
         <Link to="/menu">
           <button> ORDER NOW </button>
         </Link>
