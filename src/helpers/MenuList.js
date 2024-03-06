@@ -7,7 +7,7 @@ import GreenGraphicTee from "../assets/green-graphic-tee.png";
 
 export const MenuList = [
   {
-    name: "Long Sleve White Plain",
+    name: "Long Sleeve White Plain",
     image: Longsleave,
     price: 30.99,
   },
@@ -22,12 +22,12 @@ export const MenuList = [
     price: 43.53,
   },
   {
-    name: "Red Camp Short Sleave",
+    name: "Red Camp Shirt Sleeve",
     image: CamoShirt,
     price: 17.99,
   },
   {
-    name: "Striped Short Sleave",
+    name: "Striped Short Sleeve",
     image: StripedShirt,
     price: 4.99,
   },
